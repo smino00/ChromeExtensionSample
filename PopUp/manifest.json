@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "My First Extension",
+  "name": "Extension Sample",
   "version": "1.0",
   "description": "Just a simple Chrome extension.",
   "action": {
