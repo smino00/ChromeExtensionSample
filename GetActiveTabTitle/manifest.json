@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Extension Sample",
+  "version": "1.0",
+  "description": "Just a simple Chrome extension.",
+  "action": {
+    "default_popup": "getActivePageName.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }, 
+  "permissions": ["tabs", "activeTab", "scripting"]
+}
